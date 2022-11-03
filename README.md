@@ -4,12 +4,12 @@
 I'm a student majoring in Computer Sciene in Software Engineering. I love making project, test newest tech and joining hackathons.
 
 **Hackathons**
-*ETH-Online
+* ETH-Online
 
 **Projects**
-*[LepakDAO](https://github.com/LepakDAO/EthOnline) 
-*[DeChat](https://github.com/jrcarlos2000/dechat)
-*[Starknet NFT Aggregator](https://github.com/marcuspang/starknet-data-aggregator)
+* [LepakDAO](https://github.com/LepakDAO/EthOnline) 
+* [DeChat](https://github.com/jrcarlos2000/dechat)
+* [Starknet NFT Aggregator](https://github.com/marcuspang/starknet-data-aggregator)
   
  [![Makluganteng GitHub stats](https://github-readme-stats.vercel.app/api?username=makluganteng)](https://github.com/anuraghazra/github-readme-stats)
 
