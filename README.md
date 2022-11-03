@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Welcome to My Github
 
-I'm a student majoring in Computer Sciene in Software Engineering. I love making project, test newest tech and joining hackathons.
+I'm a Software Engineering student. I love making project, test newest tech and joining hackathons. My Hobby is just code and play games 
 
 **Hackathons**
 * ETH-Online
