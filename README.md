@@ -6,7 +6,8 @@
 I'm a Software Engineering student. I love making project, test newest tech and joining hackathons. My Hobby is just code and play games 
 
 ### Hackathons
-* ETH-Online
+* ETH-Online 2022
+* ETH-Vietnam 2022
 
 ### Projects
 * [LepakDAO](https://github.com/LepakDAO/EthOnline) 
