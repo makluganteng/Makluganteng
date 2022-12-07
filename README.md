@@ -7,7 +7,8 @@ I'm a Software Engineering student. I love making project, test newest tech and 
 
 ### Hackathons
 * ETH-Online 2022
-* ETH-Vietnam 2022
+* ETH-Vietnam 2022 (Finalist)
+* Starknet Autumn Hackathon (Finalist)
 
 ### Projects
 * [LepakDAO](https://github.com/LepakDAO/EthOnline) 
