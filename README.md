@@ -18,7 +18,6 @@ A Zero Knowledege Proof Multisig Wallet
 
 ### Projects
 * [LepakDAO](https://github.com/LepakDAO/EthOnline) 
-* [DeChat](https://github.com/jrcarlos2000/dechat)
 * [Starknet NFT Aggregator](https://github.com/marcuspang/starknet-data-aggregator)
 * [ZKDompet](https://github.com/tiadaxyz/zkDompet)
 
