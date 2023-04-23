@@ -3,7 +3,7 @@
 
 ### Welcome to My Github
 
-I'm a Software Engineering student. I love making project, test newest tech and joining hackathons. My Hobby is just code and play games. Focus on 
+I'm a Software Engineering student. I love making project, test newest tech and joining hackathons. My Hobby is just code and watch animes :3. Focus on 
 researching in Zero Knowledege Proof and building projects on ZKP.
 
 ### Best Project Showcase 
