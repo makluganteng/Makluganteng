@@ -9,12 +9,18 @@ researching in Zero Knowledege Proof and building projects on ZKP. Im working on
 ### Best Project Showcase 
 A Zero Knowledege Proof Multisig Wallet
 * [ZKDompet](https://github.com/tiadaxyz/zkDompet)
+A Onchain Football Manager with Provable Simulation ZKML
+* [Footy-Star](https://github.com/Footy-Stars)
+The First ZKML Proving Service using STARK
+* [ML-Village](https://github.com/ML-Village)
 
 ### Hackathons
 * ETH-Online 2022
 * ETH-Vietnam 2022 (Finalist)
 * Starknet Autumn Hackathon (Finalist)
 * KL Mini Hack (1st Place)
+* Starknet HH (1st Place) 
+* ETH Global Istanbul 2023 (Finalist)
 
 ### Projects
 * [LepakDAO](https://github.com/LepakDAO/EthOnline) 
@@ -23,6 +29,8 @@ A Zero Knowledege Proof Multisig Wallet
 * [On-Chain P2p](https://github.com/ETH-SG-HACKATHON)
 * [Reignite](https://github.com/Polygon-APAC-Hackathon-2023)
 * [Ethergov](https://github.com/EtherGov)
+* [Footy-Star](https://github.com/Footy-Stars)
+* [ML-Village](https://github.com/ML-Village)
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***👉 Programming languages***
 <br>
